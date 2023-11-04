@@ -10,9 +10,7 @@ image:
 tags: ["astro", "bloguear", "aprender en público"]
 ---
 
-# Mi primera publicación en el blog
-
-Published on: 2022-07-01
+## Bienvenido
 
 ¡Bienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.
 
